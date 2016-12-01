@@ -1,3 +1,5 @@
+	Make the smallest OS
+
 1. build the excuable file by the compilation source code.
 nasm boot.asm -o boot.bin
 2. make floppy file using excuable file built in step 1.
